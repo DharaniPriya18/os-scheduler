@@ -155,7 +155,7 @@ npm run build
 
 Feel free to reach out or connect!
 
-- GitHub: [@your-username](https://github.com/DharaniPriya18)
+- GitHub: [@DharaniPriya18](https://github.com/DharaniPriya18)
 
 ---
 
