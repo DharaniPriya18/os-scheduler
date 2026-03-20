@@ -2,7 +2,7 @@
 
 > An interactive web tool that brings CPU scheduling algorithms to life — visualize how your operating system decides which process runs next.
 
-🔗 **[Live Demo](https://os-scheduler-dp.vercel.app/)** ← *(replace with your Vercel URL)*
+🔗 **[Live Demo](https://os-scheduler-dp.vercel.app/)** 
 
 ---
 
@@ -113,7 +113,7 @@ os-scheduler/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js v16+
+- react.js
 - npm
 
 ### Installation
